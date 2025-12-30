@@ -15,6 +15,6 @@ public class DemoApplication {
 
     @GetMapping("/")
     public String home() {
-        return "Hello from Spring BootCamp!";
+        return "Hello from Spring Boot!";
     }
 }
